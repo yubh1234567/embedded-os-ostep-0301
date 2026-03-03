@@ -3,6 +3,8 @@
 // gettimeofday()를 사용하여 getpid() 시스템 콜의 평균 비용을 측정한다.
 // 1,000,000회 반복 후 평균값(us)을 계산한다.
 
+// 숙제, 백준 열심히 하세요 유병현씨
+
 #include <sys/time.h>  // gettimeofday()
 #include <unistd.h>    // getpid()
 #include <stdio.h>     // printf()
